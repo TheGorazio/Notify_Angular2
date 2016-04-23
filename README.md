@@ -1,3 +1,3 @@
 # Notifeeder
-** Powered by Angular 2
-*** by TheGorazio
+*Powered by Angular 2
+**by TheGorazio
